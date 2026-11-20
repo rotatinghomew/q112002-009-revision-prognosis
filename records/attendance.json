@@ -1,0 +1,162 @@
+[
+  {
+    "plan": "p1-1",
+    "student": "s1",
+    "mentor": "m1",
+    "week": 2,
+    "state": "declined",
+    "known_week": 2
+  },
+  {
+    "plan": "p1-12",
+    "student": "s12",
+    "mentor": "m2",
+    "week": 1,
+    "state": "attended",
+    "known_week": 1
+  },
+  {
+    "plan": "p1-23",
+    "student": "s23",
+    "mentor": "m1",
+    "week": 3,
+    "state": "attended",
+    "known_week": 3
+  },
+  {
+    "plan": "p1-34",
+    "student": "s6",
+    "mentor": "m2",
+    "week": 2,
+    "state": "declined",
+    "known_week": 2
+  },
+  {
+    "plan": "p2-9",
+    "student": "s9",
+    "mentor": "m1",
+    "week": 9,
+    "state": "attended",
+    "known_week": 9
+  },
+  {
+    "plan": "p2-20",
+    "student": "s20",
+    "mentor": "m2",
+    "week": 11,
+    "state": "attended",
+    "known_week": 11
+  },
+  {
+    "plan": "p2-31",
+    "student": "s3",
+    "mentor": "m1",
+    "week": 10,
+    "state": "declined",
+    "known_week": 10
+  },
+  {
+    "plan": "p3-6",
+    "student": "s6",
+    "mentor": "m2",
+    "week": 17,
+    "state": "attended",
+    "known_week": 17
+  },
+  {
+    "plan": "p3-17",
+    "student": "s17",
+    "mentor": "m1",
+    "week": 19,
+    "state": "attended",
+    "known_week": 19
+  },
+  {
+    "plan": "p3-28",
+    "student": "s0",
+    "mentor": "m2",
+    "week": 18,
+    "state": "declined",
+    "known_week": 18
+  },
+  {
+    "plan": "p4-3",
+    "student": "s3",
+    "mentor": "m1",
+    "week": 25,
+    "state": "attended",
+    "known_week": 25
+  },
+  {
+    "plan": "p4-14",
+    "student": "s14",
+    "mentor": "m2",
+    "week": 27,
+    "state": "attended",
+    "known_week": 27
+  },
+  {
+    "plan": "p4-25",
+    "student": "s25",
+    "mentor": "m1",
+    "week": 26,
+    "state": "declined",
+    "known_week": 26
+  },
+  {
+    "plan": "p4-36",
+    "student": "s8",
+    "mentor": "m2",
+    "week": 25,
+    "state": "attended",
+    "known_week": 25
+  },
+  {
+    "plan": "p5-11",
+    "student": "s11",
+    "mentor": "m1",
+    "week": 35,
+    "state": "attended",
+    "known_week": 35
+  },
+  {
+    "plan": "p5-22",
+    "student": "s22",
+    "mentor": "m2",
+    "week": 34,
+    "state": "declined",
+    "known_week": 34
+  },
+  {
+    "plan": "p5-33",
+    "student": "s5",
+    "mentor": "m1",
+    "week": 33,
+    "state": "attended",
+    "known_week": 33
+  },
+  {
+    "plan": "p6-3",
+    "student": "s3",
+    "mentor": "m1",
+    "week": 42,
+    "state": "accepted",
+    "known_week": 41
+  },
+  {
+    "plan": "p6-6",
+    "student": "s6",
+    "mentor": "m2",
+    "week": 42,
+    "state": "accepted",
+    "known_week": 41
+  },
+  {
+    "plan": "p6-7",
+    "student": "s7",
+    "mentor": "m3",
+    "week": 42,
+    "state": "invited",
+    "known_week": 41
+  }
+]

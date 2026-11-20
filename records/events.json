@@ -1,0 +1,2284 @@
+[
+  {
+    "plan": "p1-2",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-3",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-4",
+    "kind": "自主进展",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-5",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-6",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-8",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-9",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-10",
+    "kind": "自主进展",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-11",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 4,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-12",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-14",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-15",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-16",
+    "kind": "自主进展",
+    "event_week": 2,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-17",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-18",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-20",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-21",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-22",
+    "kind": "自主进展",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-23",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-24",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-26",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 4,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-27",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-28",
+    "kind": "自主进展",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-29",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-30",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-32",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-33",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 1,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-34",
+    "kind": "自主进展",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-35",
+    "kind": "自主进展",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-36",
+    "kind": "自主进展",
+    "event_week": 1,
+    "known_week": 2,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-2",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-3",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-4",
+    "kind": "自主进展",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-5",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 12,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-6",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-8",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-9",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-10",
+    "kind": "自主进展",
+    "event_week": 10,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-11",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-12",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-14",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-15",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-16",
+    "kind": "自主进展",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-17",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-18",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-20",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 12,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-21",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-22",
+    "kind": "自主进展",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-23",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-24",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-26",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-27",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-28",
+    "kind": "自主进展",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-29",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-30",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-32",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-33",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-34",
+    "kind": "自主进展",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-35",
+    "kind": "自主进展",
+    "event_week": 11,
+    "known_week": 12,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p2-36",
+    "kind": "自主进展",
+    "event_week": 9,
+    "known_week": 9,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-2",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-3",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-4",
+    "kind": "自主进展",
+    "event_week": 18,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-5",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-6",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-8",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-9",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 18,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-10",
+    "kind": "自主进展",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-11",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-12",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-14",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 20,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-15",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-16",
+    "kind": "自主进展",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-17",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-18",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-20",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-21",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-22",
+    "kind": "自主进展",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-23",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-24",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 18,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-26",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-27",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-28",
+    "kind": "自主进展",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-29",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 20,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-30",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-32",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-33",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-34",
+    "kind": "自主进展",
+    "event_week": 18,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-35",
+    "kind": "自主进展",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p3-36",
+    "kind": "自主进展",
+    "event_week": 17,
+    "known_week": 17,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-2",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-3",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-4",
+    "kind": "自主进展",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-5",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-6",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-8",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 28,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-9",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-10",
+    "kind": "自主进展",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-11",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-12",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-14",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-15",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-16",
+    "kind": "自主进展",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-17",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-18",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-20",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-21",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-22",
+    "kind": "自主进展",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-23",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 28,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-24",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-26",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-27",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-28",
+    "kind": "自主进展",
+    "event_week": 26,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-29",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-30",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-32",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-33",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-34",
+    "kind": "自主进展",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-35",
+    "kind": "自主进展",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p4-36",
+    "kind": "自主进展",
+    "event_week": 25,
+    "known_week": 25,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-2",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 36,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-3",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-4",
+    "kind": "自主进展",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-5",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-6",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-8",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-9",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-10",
+    "kind": "自主进展",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-11",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-12",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-14",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-15",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-16",
+    "kind": "自主进展",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-17",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 36,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-18",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-20",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-21",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-22",
+    "kind": "自主进展",
+    "event_week": 34,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-23",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-24",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-26",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-27",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-28",
+    "kind": "自主进展",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-29",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-30",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-32",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 36,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-33",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-34",
+    "kind": "自主进展",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-35",
+    "kind": "自主进展",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p5-36",
+    "kind": "自主进展",
+    "event_week": 33,
+    "known_week": 33,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-2",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-3",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-4",
+    "kind": "自主进展",
+    "event_week": 42,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-5",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-6",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-8",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-9",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-10",
+    "kind": "自主进展",
+    "event_week": 42,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-11",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 44,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-12",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-14",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-15",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-16",
+    "kind": "自主进展",
+    "event_week": 42,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-17",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-18",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-20",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-21",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-22",
+    "kind": "自主进展",
+    "event_week": 42,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-23",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-24",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-26",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 44,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-27",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-28",
+    "kind": "自主进展",
+    "event_week": 42,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-29",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-30",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-32",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-33",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 41,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-34",
+    "kind": "自主进展",
+    "event_week": 42,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-35",
+    "kind": "自主进展",
+    "event_week": 43,
+    "known_week": 43,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p6-36",
+    "kind": "自主进展",
+    "event_week": 41,
+    "known_week": 42,
+    "note": "第一次调整"
+  },
+  {
+    "plan": "p1-1",
+    "kind": "换目标",
+    "event_week": 3,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-3",
+    "kind": "确认完成",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-4",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-5",
+    "kind": "换目标",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-6",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-8",
+    "kind": "确认完成",
+    "event_week": 5,
+    "known_week": 5,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-9",
+    "kind": "换目标",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-10",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-11",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 5,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-13",
+    "kind": "换目标",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-14",
+    "kind": "确认完成",
+    "event_week": 5,
+    "known_week": 5,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-15",
+    "kind": "确认完成",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-16",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 5,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-18",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-19",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-20",
+    "kind": "确认完成",
+    "event_week": 5,
+    "known_week": 5,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-21",
+    "kind": "换目标",
+    "event_week": 2,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-23",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-24",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-25",
+    "kind": "换目标",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-26",
+    "kind": "确认完成",
+    "event_week": 5,
+    "known_week": 6,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-28",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-29",
+    "kind": "换目标",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-30",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 3,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-31",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-33",
+    "kind": "换目标",
+    "event_week": 2,
+    "known_week": 2,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-34",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-35",
+    "kind": "确认完成",
+    "event_week": 4,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p1-36",
+    "kind": "确认完成",
+    "event_week": 3,
+    "known_week": 4,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-2",
+    "kind": "确认完成",
+    "event_week": 13,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-3",
+    "kind": "确认完成",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-4",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-5",
+    "kind": "换目标",
+    "event_week": 12,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-7",
+    "kind": "确认完成",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-8",
+    "kind": "确认完成",
+    "event_week": 13,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-9",
+    "kind": "换目标",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-10",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-12",
+    "kind": "确认完成",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-13",
+    "kind": "换目标",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-14",
+    "kind": "确认完成",
+    "event_week": 13,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-15",
+    "kind": "确认完成",
+    "event_week": 10,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-17",
+    "kind": "换目标",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-18",
+    "kind": "确认完成",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-19",
+    "kind": "确认完成",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-20",
+    "kind": "确认完成",
+    "event_week": 13,
+    "known_week": 14,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-22",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-23",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-24",
+    "kind": "确认完成",
+    "event_week": 11,
+    "known_week": 11,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-25",
+    "kind": "换目标",
+    "event_week": 11,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-27",
+    "kind": "确认完成",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-28",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-29",
+    "kind": "换目标",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-30",
+    "kind": "确认完成",
+    "event_week": 11,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-32",
+    "kind": "确认完成",
+    "event_week": 13,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-33",
+    "kind": "换目标",
+    "event_week": 10,
+    "known_week": 10,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-34",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 12,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p2-35",
+    "kind": "确认完成",
+    "event_week": 12,
+    "known_week": 13,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-1",
+    "kind": "换目标",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-2",
+    "kind": "确认完成",
+    "event_week": 21,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-3",
+    "kind": "确认完成",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-4",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-6",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-7",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-8",
+    "kind": "确认完成",
+    "event_week": 21,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-9",
+    "kind": "换目标",
+    "event_week": 18,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-11",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-12",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-13",
+    "kind": "换目标",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-14",
+    "kind": "确认完成",
+    "event_week": 21,
+    "known_week": 22,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-16",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-17",
+    "kind": "换目标",
+    "event_week": 20,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-18",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-19",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-21",
+    "kind": "换目标",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-22",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-23",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-24",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-26",
+    "kind": "确认完成",
+    "event_week": 21,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-27",
+    "kind": "确认完成",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-28",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 20,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-29",
+    "kind": "换目标",
+    "event_week": 20,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-31",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-32",
+    "kind": "确认完成",
+    "event_week": 21,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-33",
+    "kind": "换目标",
+    "event_week": 18,
+    "known_week": 18,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-34",
+    "kind": "确认完成",
+    "event_week": 20,
+    "known_week": 21,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p3-36",
+    "kind": "确认完成",
+    "event_week": 19,
+    "known_week": 19,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-1",
+    "kind": "换目标",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-2",
+    "kind": "确认完成",
+    "event_week": 29,
+    "known_week": 29,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-3",
+    "kind": "确认完成",
+    "event_week": 26,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-5",
+    "kind": "换目标",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-6",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-7",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-8",
+    "kind": "确认完成",
+    "event_week": 29,
+    "known_week": 30,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-10",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-11",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-12",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-13",
+    "kind": "换目标",
+    "event_week": 27,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-15",
+    "kind": "确认完成",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-16",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-17",
+    "kind": "换目标",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-18",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-20",
+    "kind": "确认完成",
+    "event_week": 29,
+    "known_week": 29,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-21",
+    "kind": "换目标",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-22",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-23",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 29,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-25",
+    "kind": "换目标",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-26",
+    "kind": "确认完成",
+    "event_week": 29,
+    "known_week": 29,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-27",
+    "kind": "确认完成",
+    "event_week": 26,
+    "known_week": 26,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-28",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 29,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-30",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-31",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-32",
+    "kind": "确认完成",
+    "event_week": 29,
+    "known_week": 29,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-33",
+    "kind": "换目标",
+    "event_week": 26,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-35",
+    "kind": "确认完成",
+    "event_week": 28,
+    "known_week": 28,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p4-36",
+    "kind": "确认完成",
+    "event_week": 27,
+    "known_week": 27,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-1",
+    "kind": "换目标",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-2",
+    "kind": "确认完成",
+    "event_week": 37,
+    "known_week": 38,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-4",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-5",
+    "kind": "换目标",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-6",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-7",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-9",
+    "kind": "换目标",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-10",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-11",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-12",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-14",
+    "kind": "确认完成",
+    "event_week": 37,
+    "known_week": 37,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-15",
+    "kind": "确认完成",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-16",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-17",
+    "kind": "换目标",
+    "event_week": 36,
+    "known_week": 37,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-19",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-20",
+    "kind": "确认完成",
+    "event_week": 37,
+    "known_week": 37,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-21",
+    "kind": "换目标",
+    "event_week": 34,
+    "known_week": 34,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-22",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 37,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-24",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-25",
+    "kind": "换目标",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-26",
+    "kind": "确认完成",
+    "event_week": 37,
+    "known_week": 37,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-27",
+    "kind": "确认完成",
+    "event_week": 34,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-29",
+    "kind": "换目标",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-30",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-31",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-32",
+    "kind": "确认完成",
+    "event_week": 37,
+    "known_week": 38,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-34",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-35",
+    "kind": "确认完成",
+    "event_week": 36,
+    "known_week": 36,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p5-36",
+    "kind": "确认完成",
+    "event_week": 35,
+    "known_week": 35,
+    "note": "学生提交"
+  },
+  {
+    "plan": "p6-3",
+    "kind": "确认完成",
+    "event_week": 42,
+    "known_week": 43,
+    "note": "课后补录"
+  },
+  {
+    "plan": "p6-7",
+    "kind": "换目标",
+    "event_week": 42,
+    "known_week": 42,
+    "note": "下一轮重新报"
+  }
+]

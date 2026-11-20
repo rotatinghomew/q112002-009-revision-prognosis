@@ -1,0 +1,1946 @@
+[
+  {
+    "plan": "p1-1",
+    "student": "s1",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-2",
+    "student": "s2",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-3",
+    "student": "s3",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-4",
+    "student": "s4",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-5",
+    "student": "s5",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-6",
+    "student": "s6",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-7",
+    "student": "s7",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-8",
+    "student": "s8",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-9",
+    "student": "s9",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-10",
+    "student": "s10",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-11",
+    "student": "s11",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-12",
+    "student": "s12",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-13",
+    "student": "s13",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-14",
+    "student": "s14",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-15",
+    "student": "s15",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-16",
+    "student": "s16",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-17",
+    "student": "s17",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-18",
+    "student": "s18",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-19",
+    "student": "s19",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-20",
+    "student": "s20",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-21",
+    "student": "s21",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-22",
+    "student": "s22",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-23",
+    "student": "s23",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-24",
+    "student": "s24",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-25",
+    "student": "s25",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-26",
+    "student": "s26",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-27",
+    "student": "s27",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-28",
+    "student": "s0",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-29",
+    "student": "s1",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-30",
+    "student": "s2",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-31",
+    "student": "s3",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-32",
+    "student": "s4",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-33",
+    "student": "s5",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-34",
+    "student": "s6",
+    "term": 1,
+    "start": 1,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-35",
+    "student": "s7",
+    "term": 1,
+    "start": 2,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p1-36",
+    "student": "s8",
+    "term": 1,
+    "start": 0,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-1",
+    "student": "s1",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-2",
+    "student": "s2",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-3",
+    "student": "s3",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-4",
+    "student": "s4",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-5",
+    "student": "s5",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-6",
+    "student": "s6",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-7",
+    "student": "s7",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-8",
+    "student": "s8",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-9",
+    "student": "s9",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-10",
+    "student": "s10",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-11",
+    "student": "s11",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-12",
+    "student": "s12",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-13",
+    "student": "s13",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-14",
+    "student": "s14",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-15",
+    "student": "s15",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-16",
+    "student": "s16",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-17",
+    "student": "s17",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-18",
+    "student": "s18",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-19",
+    "student": "s19",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-20",
+    "student": "s20",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-21",
+    "student": "s21",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-22",
+    "student": "s22",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-23",
+    "student": "s23",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-24",
+    "student": "s24",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-25",
+    "student": "s25",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-26",
+    "student": "s26",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-27",
+    "student": "s27",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-28",
+    "student": "s0",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-29",
+    "student": "s1",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-30",
+    "student": "s2",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-31",
+    "student": "s3",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-32",
+    "student": "s4",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-33",
+    "student": "s5",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-34",
+    "student": "s6",
+    "term": 2,
+    "start": 9,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-35",
+    "student": "s7",
+    "term": 2,
+    "start": 10,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p2-36",
+    "student": "s8",
+    "term": 2,
+    "start": 8,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-1",
+    "student": "s1",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-2",
+    "student": "s2",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-3",
+    "student": "s3",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-4",
+    "student": "s4",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-5",
+    "student": "s5",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-6",
+    "student": "s6",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-7",
+    "student": "s7",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-8",
+    "student": "s8",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-9",
+    "student": "s9",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-10",
+    "student": "s10",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-11",
+    "student": "s11",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-12",
+    "student": "s12",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-13",
+    "student": "s13",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-14",
+    "student": "s14",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-15",
+    "student": "s15",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-16",
+    "student": "s16",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-17",
+    "student": "s17",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-18",
+    "student": "s18",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-19",
+    "student": "s19",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-20",
+    "student": "s20",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-21",
+    "student": "s21",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-22",
+    "student": "s22",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-23",
+    "student": "s23",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-24",
+    "student": "s24",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-25",
+    "student": "s25",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-26",
+    "student": "s26",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-27",
+    "student": "s27",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-28",
+    "student": "s0",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-29",
+    "student": "s1",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-30",
+    "student": "s2",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-31",
+    "student": "s3",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-32",
+    "student": "s4",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-33",
+    "student": "s5",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-34",
+    "student": "s6",
+    "term": 3,
+    "start": 17,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-35",
+    "student": "s7",
+    "term": 3,
+    "start": 18,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p3-36",
+    "student": "s8",
+    "term": 3,
+    "start": 16,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-1",
+    "student": "s1",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-2",
+    "student": "s2",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-3",
+    "student": "s3",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-4",
+    "student": "s4",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-5",
+    "student": "s5",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-6",
+    "student": "s6",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-7",
+    "student": "s7",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-8",
+    "student": "s8",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-9",
+    "student": "s9",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-10",
+    "student": "s10",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-11",
+    "student": "s11",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-12",
+    "student": "s12",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-13",
+    "student": "s13",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-14",
+    "student": "s14",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-15",
+    "student": "s15",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-16",
+    "student": "s16",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-17",
+    "student": "s17",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-18",
+    "student": "s18",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-19",
+    "student": "s19",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-20",
+    "student": "s20",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-21",
+    "student": "s21",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-22",
+    "student": "s22",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-23",
+    "student": "s23",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-24",
+    "student": "s24",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-25",
+    "student": "s25",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-26",
+    "student": "s26",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-27",
+    "student": "s27",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-28",
+    "student": "s0",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-29",
+    "student": "s1",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-30",
+    "student": "s2",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-31",
+    "student": "s3",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-32",
+    "student": "s4",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-33",
+    "student": "s5",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-34",
+    "student": "s6",
+    "term": 4,
+    "start": 25,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-35",
+    "student": "s7",
+    "term": 4,
+    "start": 26,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p4-36",
+    "student": "s8",
+    "term": 4,
+    "start": 24,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-1",
+    "student": "s1",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-2",
+    "student": "s2",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-3",
+    "student": "s3",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-4",
+    "student": "s4",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-5",
+    "student": "s5",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-6",
+    "student": "s6",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-7",
+    "student": "s7",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-8",
+    "student": "s8",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-9",
+    "student": "s9",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-10",
+    "student": "s10",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-11",
+    "student": "s11",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-12",
+    "student": "s12",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-13",
+    "student": "s13",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-14",
+    "student": "s14",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-15",
+    "student": "s15",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-16",
+    "student": "s16",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-17",
+    "student": "s17",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-18",
+    "student": "s18",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-19",
+    "student": "s19",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-20",
+    "student": "s20",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-21",
+    "student": "s21",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-22",
+    "student": "s22",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-23",
+    "student": "s23",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-24",
+    "student": "s24",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-25",
+    "student": "s25",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-26",
+    "student": "s26",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-27",
+    "student": "s27",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-28",
+    "student": "s0",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-29",
+    "student": "s1",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-30",
+    "student": "s2",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-31",
+    "student": "s3",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-32",
+    "student": "s4",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-33",
+    "student": "s5",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-34",
+    "student": "s6",
+    "term": 5,
+    "start": 33,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-35",
+    "student": "s7",
+    "term": 5,
+    "start": 34,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p5-36",
+    "student": "s8",
+    "term": 5,
+    "start": 32,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-1",
+    "student": "s1",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-2",
+    "student": "s2",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-3",
+    "student": "s3",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-4",
+    "student": "s4",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-5",
+    "student": "s5",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-6",
+    "student": "s6",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-7",
+    "student": "s7",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-8",
+    "student": "s8",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-9",
+    "student": "s9",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-10",
+    "student": "s10",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-11",
+    "student": "s11",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-12",
+    "student": "s12",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-13",
+    "student": "s13",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-14",
+    "student": "s14",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-15",
+    "student": "s15",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-16",
+    "student": "s16",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-17",
+    "student": "s17",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-18",
+    "student": "s18",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-19",
+    "student": "s19",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-20",
+    "student": "s20",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-21",
+    "student": "s21",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-22",
+    "student": "s22",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-23",
+    "student": "s23",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-24",
+    "student": "s24",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-25",
+    "student": "s25",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-26",
+    "student": "s26",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-27",
+    "student": "s27",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-28",
+    "student": "s0",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-29",
+    "student": "s1",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-30",
+    "student": "s2",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-31",
+    "student": "s3",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-32",
+    "student": "s4",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "新课程"
+  },
+  {
+    "plan": "p6-33",
+    "student": "s5",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-34",
+    "student": "s6",
+    "term": 6,
+    "start": 41,
+    "channel": "课堂",
+    "focus": "反驳修订",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-35",
+    "student": "s7",
+    "term": 6,
+    "start": 42,
+    "channel": "课堂",
+    "focus": "说明证据",
+    "course": "写作研讨"
+  },
+  {
+    "plan": "p6-36",
+    "student": "s8",
+    "term": 6,
+    "start": 40,
+    "channel": "线上",
+    "focus": "反驳修订",
+    "course": "新课程"
+  }
+]

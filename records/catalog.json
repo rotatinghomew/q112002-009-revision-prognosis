@@ -1,0 +1,42 @@
+{
+  "plans": [
+    "plan",
+    "student",
+    "term",
+    "start",
+    "channel",
+    "focus",
+    "course"
+  ],
+  "events": [
+    "plan",
+    "kind",
+    "event_week",
+    "known_week",
+    "note"
+  ],
+  "mentors": [
+    "mentor",
+    "focus"
+  ],
+  "capacity": [
+    "week",
+    "mentor",
+    "seats",
+    "manual",
+    "recorded"
+  ],
+  "availability": [
+    "student",
+    "week",
+    "mentors"
+  ],
+  "attendance": [
+    "plan",
+    "student",
+    "mentor",
+    "week",
+    "state",
+    "known_week"
+  ]
+}
